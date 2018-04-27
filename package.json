@@ -1,10 +1,10 @@
 {
-  "name": "webpack-css-tree-shaking-plugin",
-  "version": "1.0.0",
+  "name": "remove-uncss-webpack-plugin",
+  "version": "1.0.1",
   "description": "webpack插件去除没有使用的css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/careteenL/webpack-css-tree-shaking-plugin"
+    "url": "https://github.com/careteenL/remove-uncss-webpack-plugin"
   },
   "main": "lib/index.js",
   "scripts": {
