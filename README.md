@@ -41,3 +41,7 @@ ignore | array | [] | items can be a string or a regexp
 
 ## architechture
 <img src="architechture.png">
+
+## Examples
+
+- [tree-shaking-practice](https://github.com/careteenL/tree-shaking-practice)
